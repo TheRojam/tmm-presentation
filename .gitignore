@@ -16,3 +16,6 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+# presentation output
+*.pdf
