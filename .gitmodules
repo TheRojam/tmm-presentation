@@ -1,3 +1,6 @@
 [submodule "focus-beamertheme"]
 	path = focus-beamertheme
 	url = git@github.com:elauksap/focus-beamertheme.git
+[submodule "uberspace-scripts"]
+	path = uberspace-scripts
+	url = git@bitbucket.org:therojam/uberspace-scripts.git
